@@ -1,13 +1,11 @@
 hello,world
 
 -----steps for uploading local repository to github-----------
-1.choose and enter a local file in terminal, which you want it to be sychronizied with github repository.
-	//operations,set the right github account:
-	git config --global user.name"xxxx"
-	git config --global user.email"....."
+1. git config --global user.name"xxxx"
+   git config --global user.email"....."
+(choose and enter a local file in terminal, which you want it to be sychronizied with github repository. Operations: set the right github account:)
 
-2.initialize a local file as repository
-	git init
+2. git init (initialize a local file as repository)
 3. git remote add hhh https://github.com/CarrymeWon/Cartpole.git
 4. git status
 5. git add *
