@@ -1,1 +1,13 @@
 hello,world
+
+-----steps for uploading local repository to github-----------
+1.choose and enter a local file in terminal, which you want it to be sychronizied with github repository.
+	//operations,set the right github account:
+	git config --global user.name"xxxx"
+	git config --global user.email"....."
+
+2.initialize a local file as repository
+	git init
+3.
+
+	
