@@ -11,5 +11,7 @@ hello,world
 5. git add *
 6. git commit -m ''
 7. git push -u hhh master
+8: git config --global credential.helper store
+(Solving problem of requiring username and password input every time pull a commit:)
 
 
