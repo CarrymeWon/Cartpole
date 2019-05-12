@@ -8,6 +8,10 @@ hello,world
 
 2.initialize a local file as repository
 	git init
-3.
+3. git remote add hhh https://github.com/CarrymeWon/Cartpole.git
+4. git status
+5. git add *
+6. git commit -m ''
+7. git push -u hhh master
 
-	
+
